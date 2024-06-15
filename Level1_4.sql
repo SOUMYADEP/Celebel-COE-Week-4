@@ -1,0 +1,1 @@
+select floor((count(lat_n)+1)/2) from station;
